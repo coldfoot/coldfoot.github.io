@@ -1,0 +1,29 @@
+* {
+
+    box-sizing: border-box;
+
+}
+
+canvas {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+h1 {
+
+    margin-top: 50vh;
+    margin-left: auto;
+    margin-right: 4rem;
+    margin-bottom: auto;
+    width: 60%;
+    max-width: 400px;
+    height: 3rem;
+    letter-spacing: .05em;
+    text-align: right;
+
+}
