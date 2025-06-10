@@ -91,3 +91,22 @@ a {
     font-family: monospace;
     font-weight: bold;
 }
+
+.get-in-touch {
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+    /*align-items: center;*/
+    width: 90%;
+    gap: 1rem;
+}
+
+.social-media {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.social-media path {
+    fill: whitesmoke;
+}
+
